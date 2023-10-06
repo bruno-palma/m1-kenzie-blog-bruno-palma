@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+header {
+  text-align: center;
+  background-color: #b1b1b1;
+  border-bottom: 4px solid rgb(255, 255, 255);
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+h1 {
+  color: black;
+  padding-top: 7px;
+  font-weight: bold;
+  font-size: 27px;
+}
+
+h2 {
+  padding-bottom: 15px;
+  font-size: 23px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+article {
+  border: 3px solid #808080;
+  margin-bottom: 15px;
+  border-radius: 15px;
+  background-color: #0000ff;
+  color: #f5f5f5;
+  padding: 20px;
+  width: 75%;
+  display: inline-block;
+}
+
+p {
+  padding: 10px;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+a {
+  font-size: 15px;
+  color: white;
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.formulario {
+  background-color: #fff;
+  color: #000000;
+  padding: 20px;
+  border: 4px solid rgb(0, 0, 255);
+  display: inline-block;
+  width: 75%;
+  border-radius: 15px;
+  margin-bottom: 15px;
+}
+
+h3 {
+  padding-bottom: 10px;
+  font-size: 20px;
+  font-weight: 500;
+  color: #000000;
+}
+
+.p-form {
+  font-size: 16px;
+}
+
+form {
+  padding-top: 10px;
+}
+
+label {
+  font-weight: 700;
+  font-size: 15px;
+}
+
+input {
+  border: 2.5px solid blue;
+  border-radius: 5px;
+  font-weight: 500;
+  font-size: 15px;
+  margin: 0px 5px 10px 5px;
+}
+
+button {
+  border-radius: 5px;
+  background-color: #0000ff;
+  color: white;
+  font-weight: 500;
+  font-size: 15px;
+}
